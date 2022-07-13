@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-13T07:20:02.284Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="N0iOgVROkB47_ajDF9NO" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-13T16:07:11.286Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="NrafQvjJPwmDqWrIarRo" version="20.0.3" type="github">
   <diagram id="4CAxvO8mMt8aVaiXzxCG" name="Page-1">
     <mxGraphModel dx="782" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
@@ -8,16 +8,40 @@
           <mxGeometry x="40" y="40" width="680" height="90" as="geometry" />
         </mxCell>
         <mxCell id="8ilifT0CPcP_eNuwL5-Z-6" value="RESSOURCES &amp; SUPPORT" style="swimlane;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="40" y="560" width="680" height="90" as="geometry" />
+          <mxGeometry x="40" y="560" width="680" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="8ilifT0CPcP_eNuwL5-Z-14" value="Ressources Humaines" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="8ilifT0CPcP_eNuwL5-Z-6">
+          <mxGeometry x="60" y="40" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8ilifT0CPcP_eNuwL5-Z-8" value="PILOTAGE ET CONTROLE" style="swimlane;horizontal=0;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="40" y="160" width="120" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="8ilifT0CPcP_eNuwL5-Z-13" value="Pole comptabilité" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="8ilifT0CPcP_eNuwL5-Z-8">
+          <mxGeometry x="30" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8ilifT0CPcP_eNuwL5-Z-19" value="Pole qualité/RSE" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="8ilifT0CPcP_eNuwL5-Z-8">
+          <mxGeometry x="30" y="150" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8ilifT0CPcP_eNuwL5-Z-9" value="DONNEES TRANSVERSES" style="swimlane;horizontal=0;rotation=-180;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="600" y="160" width="120" height="360" as="geometry" />
         </mxCell>
         <mxCell id="8ilifT0CPcP_eNuwL5-Z-10" value="OPERATION" style="swimlane;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="170" y="160" width="420" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="8ilifT0CPcP_eNuwL5-Z-11" value="Pôle commercial" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="8ilifT0CPcP_eNuwL5-Z-10">
+          <mxGeometry x="50" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8ilifT0CPcP_eNuwL5-Z-12" value="Pôle fabrication" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="8ilifT0CPcP_eNuwL5-Z-10">
+          <mxGeometry x="60" y="260" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8ilifT0CPcP_eNuwL5-Z-15" value="Pôle technique" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="8ilifT0CPcP_eNuwL5-Z-10">
+          <mxGeometry x="290" y="30" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8ilifT0CPcP_eNuwL5-Z-16" value="Pôle opérations" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="8ilifT0CPcP_eNuwL5-Z-10">
+          <mxGeometry x="60" y="150" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8ilifT0CPcP_eNuwL5-Z-17" value="Pôle pétrole" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="8ilifT0CPcP_eNuwL5-Z-10">
+          <mxGeometry x="300" y="160" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
