@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2022-07-13T07:14:22.527Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.0.3" etag="_UvPJvImy622aiVId8Wy" type="github"><diagram id="4CAxvO8mMt8aVaiXzxCG">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-13T07:20:02.284Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="N0iOgVROkB47_ajDF9NO" version="20.0.3" type="github">
+  <diagram id="4CAxvO8mMt8aVaiXzxCG" name="Page-1">
+    <mxGraphModel dx="782" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8ilifT0CPcP_eNuwL5-Z-5" value="ECHANGE" style="swimlane;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="680" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="8ilifT0CPcP_eNuwL5-Z-6" value="RESSOURCES &amp; SUPPORT" style="swimlane;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="40" y="560" width="680" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="8ilifT0CPcP_eNuwL5-Z-8" value="PILOTAGE ET CONTROLE" style="swimlane;horizontal=0;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="120" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="8ilifT0CPcP_eNuwL5-Z-9" value="DONNEES TRANSVERSES" style="swimlane;horizontal=0;rotation=-180;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="600" y="160" width="120" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="8ilifT0CPcP_eNuwL5-Z-10" value="OPERATION" style="swimlane;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="170" y="160" width="420" height="360" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
